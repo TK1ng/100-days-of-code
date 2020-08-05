@@ -4,7 +4,6 @@
 **Today's Progress**: Created a chic digital clock using HTML/CSS/JavaScript and started working on the CSS for the analog version.
 
 **Thoughts:** Explored the Date() method. Working out the CSS for the analog clock version is a task. Requires much more detail than the digital clock. 
-
 <br>**Links to work:** <br> [Digital Clock](https://codepen.io/gemking1/pen/GRoVYer) <br> [Analog Clock](https://codepen.io/gemking1/pen/BaKaQja)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
