@@ -11,6 +11,13 @@
 **Thoughts**: It's definitely a learning process. I had to spend some time working out how to create movement of the clock arms with JS. I enjoyed exploring neumorphism for the UI/design.<br>
 **Link to work**: [Analog clock](https://codepen.io/gemking1/pen/BaKaQja)
 
+### Day 2: August 6, 2020
+**Today's Progress**: Today I started working through a Udemy course to learn how to build a quiz application using HTML, CSS, and JS. I started crafting the design with CSS. <br>
+**Thoughts**: Working with CSS definitely requires a certain level of finesse 🙃
+**Link to work**: [Quiz App](https://github.com/TK1ng/quiz-app)
+
+
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
