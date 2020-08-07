@@ -12,7 +12,7 @@
 **Link to work**: [Analog clock](https://codepen.io/gemking1/pen/BaKaQja)
 
 ### Day 2: August 6, 2020
-**Today's Progress**: Today I started working through a Udemy course to learn how to build a quiz application using HTML, CSS, and JS. I started crafting the design with CSS. <br>
+**Today's Progress**: Today I started working through a [Udemy course](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/) to learn how to build a quiz application using HTML, CSS, and JS. I started crafting the design with CSS. <br>
 **Thoughts**: Working with CSS definitely requires a certain level of finesse 🙃
 **Link to work**: [Quiz App](https://github.com/TK1ng/quiz-app)
 
