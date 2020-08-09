@@ -16,6 +16,11 @@
 **Thoughts**: Working with CSS definitely requires a certain level of finesse 🙃<br>
 **Link to work**: [Quiz App](https://github.com/TK1ng/quiz-app)
 
+### Day 3: August 8, 2020
+**Today's Progress**: Created a loading animation with CSS following this great [guide](https://www.freecodecamp.org/news/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f/). 
+**Thoughts**: CSS animations are fun.<br>
+**Link to work**: [Loading animation](https://codepen.io/gemking1/full/QWNbwNB)
+
 
 
 <!-- 
