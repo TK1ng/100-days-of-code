@@ -21,6 +21,11 @@
 **Thoughts**: CSS animations are fun.<br>
 **Link to work**: [Loading animation](https://codepen.io/gemking1/full/QWNbwNB)
 
+### Day 3: August 8, 2020
+**Today's Progress**: Started working on a magic eight ball using HTML, CSS, and JavaScript.
+**Thoughts**: I took a deeper dive into trying to make the style look more realistic(a bit of the artist in me coming out). I wanted to focus on cleaning up the JavaScript here so that it isn't noisy. It's a work in progress. Still some things to tweak<br>
+**Link to work**: [Magic 8 Ball](https://codepen.io/gemking1/pen/GRZJqJK)
+
 
 
 <!-- 
