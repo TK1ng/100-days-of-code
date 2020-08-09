@@ -17,7 +17,7 @@
 **Link to work**: [Quiz App](https://github.com/TK1ng/quiz-app)
 
 ### Day 3: August 8, 2020
-**Today's Progress**: Created a loading animation with CSS following this great [guide](https://www.freecodecamp.org/news/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f/). Also learned some good practices for [CSS naming conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)<br>
+**Today's Progress**: Created a loading animation with CSS following this great [guide](https://www.freecodecamp.org/news/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f/). Also, learned some good practices for [CSS naming conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)<br>
 **Thoughts**: CSS animations are fun.<br>
 **Link to work**: [Loading animation](https://codepen.io/gemking1/full/QWNbwNB)
 
