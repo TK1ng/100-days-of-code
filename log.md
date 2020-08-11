@@ -21,12 +21,15 @@
 **Thoughts**: CSS animations are fun.<br>
 **Link to work**: [Loading animation](https://codepen.io/gemking1/full/QWNbwNB)
 
-### Day 3: August 8, 2020
+### Day 4: August 9, 2020
 **Today's Progress**: Started working on a magic eight ball using HTML, CSS, and JavaScript.
 **Thoughts**: I took a deeper dive into trying to make the style look more realistic(a bit of the artist in me coming out). I wanted to focus on cleaning up the JavaScript here so that it isn't noisy. It's a work in progress. Still some things to tweak<br>
 **Link to work**: [Magic 8 Ball](https://codepen.io/gemking1/pen/GRZJqJK)
 
-
+### Day 5: August 10, 2020
+**Today's Progress**: Completed the magic 8 ball project.
+**Thoughts**: The challenge I had to overcome with this project was making the page responsive despite having html elements that have a position of absolute. The solution was adding media queries to adjust styling based on the screen size.<br>
+**Link to work**: [Magic 8 Ball](https://codepen.io/gemking1/pen/GRZJqJK)
 
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
