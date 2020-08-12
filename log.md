@@ -33,7 +33,7 @@
 
 
 ### Day 6: August 11, 2020
-**Today's Progress**: Decided to revisit a project I've been working on. I've been building a code generator that can be used to format data inputs.
+**Today's Progress**: Decided to revisit a project I've been working on. I've been building a code generator that can be used to format data inputs.<br>
 **Thoughts**: The basic function of this tool is in place so now I am working to make improvements. One of the things I've been looking at is implementing the use of yaml parsing. This is definitely a challenge with making use of an api.<br>
 **Links to work**: <br>[Code](https://github.com/TK1ng/limit-search-criteria-code-gen)<br> [Live](https://www.kingcodes.dev/limit-search-criteria-code-gen/)
 
