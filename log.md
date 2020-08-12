@@ -31,6 +31,12 @@
 **Thoughts**: The challenge I had to overcome with this project was making the page responsive despite having html elements that have a position of absolute. The solution was adding media queries to adjust styling based on the screen size.<br>
 **Link to work**: [Magic 8 Ball](https://codepen.io/gemking1/pen/GRZJqJK)
 
+
+### Day 6: August 11, 2020
+**Today's Progress**: Decided to revisit a project I've been working on. I've been building a code generator that can be used to format data inputs.
+**Thoughts**: The basic function of this tool is in place so now I am working to make improvements. One of the things I've been looking at is implementing the use of yaml parsing. This is definitely a challenge with making use of an api.<br>
+**Links to work**: [Code](https://github.com/TK1ng/limit-search-criteria-code-gen) [Live](https://www.kingcodes.dev/limit-search-criteria-code-gen/)
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
