@@ -37,6 +37,12 @@
 **Thoughts**: The basic function of this tool is in place so now I am working to make improvements. One of the things I've been looking at is implementing the use of yaml parsing. This is definitely a challenge with making use of an api.<br>
 **Links to work**: <br>[Code](https://github.com/TK1ng/limit-search-criteria-code-gen)<br> [Live](https://www.kingcodes.dev/limit-search-criteria-code-gen/)
 
+
+### Day 7: August 14, 2020
+**Today's Progress**: I haven't been feeling wel the past few days, so took a health break but back at it. Today I began working through a challenge from Frontend Mentor to re-create the layout of a landing page<br>
+**Thoughts**: The tricky part for me is placement. This design has some interesting placements of elements, so this is good practice with positioning elements absolutely<br>
+**Links to work**: <br>
+https://github.com/TK1ng/Fylo-data-storage-component
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
