@@ -43,6 +43,13 @@
 **Thoughts**: The tricky part for me is placement. This design has some interesting placements of elements, so this is good practice with positioning elements absolutely<br>
 **Links to work**: <br>
 https://github.com/TK1ng/Fylo-data-storage-component
+
+### Day 8: August 15, 2020
+**Today's Progress**: I finished a challenge from Frontend Mentor.<br>
+**Thoughts**: Building web pages from a mobile first perspective makes the part of ensuring the page is responsive much easier.<br>
+**Links to work**:<br>
+[Live](http://www.kingcodes.dev/Fylo-data-storage-component/)<br>
+[Code](https://github.com/TK1ng/Fylo-data-storage-component)
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
