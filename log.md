@@ -54,7 +54,7 @@ https://github.com/TK1ng/Fylo-data-storage-component
 ### Day 9: August 17, 2020
 **Today's Progress**: I spent some time working through Javascript coding challenges from [codeWars](https://www.codewars.com)<br>
 **Thoughts**: Once particular exercise that was a good challenge was filtering an array. The challenge was to write a function that  goal in this kata is to implement a difference function, which subtracts one list from another and returns the result. The function needed to remove all values from list a, which are present in list b. <br>
-**Links to work**:<br><img src="array_diff_code.png" width="300" height="350"/>
+**Links to work**:<br><img src="array_diff_code.png"/>
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
