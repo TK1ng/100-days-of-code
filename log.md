@@ -59,7 +59,7 @@ https://github.com/TK1ng/Fylo-data-storage-component
 ### Day 10: August 20, 2020
 **Today's Progress**: Today I played around with CSS animation and creating transitions.
 **Thoughts**: I'm delving deeper into the possibilities with CSS. Working with psuedo elements is a thing to wrap the mind around, but amazing what can be done with it. <br>
-**Links to work**:<br>[Menu icon animation](https://codepen.io/gemking1/pen/WNwoRaL);
+**Links to work**:<br>[Menu icon animation](https://codepen.io/gemking1/pen/WNwoRaL)
 
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
