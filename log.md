@@ -55,6 +55,12 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Today's Progress**: I spent some time working through Javascript coding challenges from [codeWars](https://www.codewars.com)<br>
 **Thoughts**: Once particular exercise that was a good challenge was filtering an array. The challenge was to write a function that  goal in this kata is to implement a difference function, which subtracts one list from another and returns the result. The function needed to remove all values from list a, which are present in list b. <br>
 **Links to work**:<br><img src="array_diff_code.png"/>
+
+### Day 10: August 20, 2020
+**Today's Progress**: Today I played around with CSS animation and creating transitions.
+**Thoughts**: I'm delving deeper into the possibilities with CSS. Working with psuedo elements is a thing to wrap the mind around, but amazing what can be done with it. <br>
+**Links to work**:<br>[Menu icon animation](https://codepen.io/gemking1/pen/WNwoRaL);
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
