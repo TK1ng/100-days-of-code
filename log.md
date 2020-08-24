@@ -57,7 +57,7 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Links to work**:<br><img src="array_diff_code.png"/>
 
 ### Day 10: August 20, 2020
-**Today's Progress**: Today I played around with CSS animation and creating transitions.
+**Today's Progress**: Today I played around with CSS animation and creating transitions.<br>
 **Thoughts**: I'm delving deeper into the possibilities with CSS. Working with pseudo elements is a thing to wrap the mind around, but amazing what can be done with it. <br>
 **Links to work**:<br>[Menu icon animation](https://codepen.io/gemking1/pen/WNwoRaL)
 
