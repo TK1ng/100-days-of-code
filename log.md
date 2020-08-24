@@ -61,6 +61,11 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**: I'm delving deeper into the possibilities with CSS. Working with pseudo elements is a thing to wrap the mind around, but amazing what can be done with it. <br>
 **Links to work**:<br>[Menu icon animation](https://codepen.io/gemking1/pen/WNwoRaL)
 
+### Day 11: August 23, 2020
+**Today's Progress**: I started learning to build a program using React.js<br>
+**Thoughts**:Not too daunting to work with. I learned about importing and exporting from different modules.<br>
+**Links to work**:<br><img src="counter_react_app.png"/>
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
