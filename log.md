@@ -66,6 +66,12 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**:Not too daunting to work with. I learned about importing and exporting from different modules.<br>
 **Links to work**:<br><img src="counter_react_app.png"/>
 
+### Day 12: August 24, 2020
+**Today's Progress**: Today I worked more on my skills with the frontend by reproducing a sample design.<br>
+**Thoughts**:Practice certainly makes better. As I get more familiar with CSS, styling becomes much of a breeze.<br>
+**Links to work**:<a href="https://github.com/TK1ng/intro-component-signup-form">View code</a>
+
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
