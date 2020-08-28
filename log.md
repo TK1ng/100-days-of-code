@@ -71,6 +71,10 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**:Practice certainly makes better. As I get more familiar with CSS, styling becomes much of a breeze.<br>
 **Links to work**:<a href="https://github.com/TK1ng/intro-component-signup-form">View code</a>
 
+### Day 13: August 27, 2020
+**Today's Progress**: I decided to spend sometime becoming more familiar with handling HTTP requests using node.js<br>
+**Thoughts**:The basic structure of creating a request was not too hard to grasp once I was able to focus in. The next task will be learning how to write code to handle more complex functions, such as request and return specific data. Here's to a nice start!<br>
+<img src="/HTTP-requests.png"/>
 
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
