@@ -69,7 +69,7 @@ https://github.com/TK1ng/Fylo-data-storage-component
 ### Day 12: August 24, 2020
 **Today's Progress**: Today I worked more on my skills with the frontend by reproducing a sample design.<br>
 **Thoughts**:Practice certainly makes better. As I get more familiar with CSS, styling becomes much of a breeze.<br>
-**Links to work**:<a href="https://github.com/TK1ng/intro-component-signup-form">View code</a>
+**Links to work**: <a href="https://github.com/TK1ng/intro-component-signup-form">View code</a>
 
 ### Day 13: August 27, 2020
 **Today's Progress**: I decided to spend sometime becoming more familiar with handling HTTP requests using node.js<br>
@@ -79,7 +79,7 @@ https://github.com/TK1ng/Fylo-data-storage-component
 ### Day 14: August 28, 2020
 **Today's Progress**: Worked more on a sample form design and added styling for desktop to make the design responsive.<br>
 **Thoughts**:With this work, I find that I am getting settled more into a good groove in terms of workflow.<br>
-**Links to work**:<a href="https://github.com/TK1ng/intro-component-signup-form">View code</a>
+**Links to work**: <a href="https://github.com/TK1ng/intro-component-signup-form">View code</a>
 
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
