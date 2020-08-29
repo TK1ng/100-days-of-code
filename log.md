@@ -76,6 +76,11 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**:The basic structure of creating a request was not too hard to grasp once I was able to focus in. The next task will be learning how to write code to handle more complex functions, such as request and return specific data. Here's to a nice start!<br>
 <img src="/HTTP-requests.png"/>
 
+### Day 14: August 28, 2020
+**Today's Progress**: Worked more on a sample form design and added styling for desktop to make the design responsive.<br>
+**Thoughts**:With this work, I find that I am getting settled more into a good groove in terms of workflow.<br>
+**Links to work**:<a href="https://github.com/TK1ng/intro-component-signup-form">View code</a>
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
