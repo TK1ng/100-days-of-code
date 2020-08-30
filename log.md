@@ -81,6 +81,11 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**:With this work, I find that I am getting settled more into a good groove in terms of workflow.<br>
 **Links to work**: <a href="https://github.com/TK1ng/intro-component-signup-form">View code</a>
 
+### Day 15: August 29, 2020
+**Today's Progress**: I started building a file preview tool.<br>
+**Thoughts**:I learned some cool tricks for styling labels and inputs. Still working on the JavaScript coding that will allow for preview of files and update the text in the button.<br>
+**Links to work**: <a href="https://codepen.io/gemking1/pen/WNwOyRm?editors=1111">View code</a>
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
