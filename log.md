@@ -86,6 +86,11 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**:I learned some cool tricks for styling labels and inputs. Still working on the JavaScript coding that will allow for preview of files and update the text in the button.<br>
 **Links to work**: <a href="https://codepen.io/gemking1/pen/WNwOyRm?editors=1111">View code</a>
 
+### Day 16: September 08, 2020
+**Today's Progress**: Diving back in after a much need break. Lately, I've been spending alot of time solving code challenges and practicing functions that explore different data structures. This one is dealing with objects and a function that compare them<br>
+**Work**: <br>
+<img src="Screen Shot 2020-09-08 at 11.28.25 PM.png />
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
