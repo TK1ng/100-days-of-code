@@ -89,7 +89,7 @@ https://github.com/TK1ng/Fylo-data-storage-component
 ### Day 16: September 08, 2020
 **Today's Progress**: Diving back in after a much need break. Lately, I've been spending alot of time solving code challenges and practicing functions that explore different data structures. This one is dealing with objects and a function that compare them<br>
 **Work**: <br>
-<img src="deepEqual.png />
+<img src="/deepEqual.png />
 
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
