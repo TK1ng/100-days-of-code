@@ -39,7 +39,7 @@
 
 
 ### Day 7: August 14, 2020
-**Today's Progress**: I haven't been feeling wel the past few days, so took a health break but back at it. Today I began working through a challenge from Frontend Mentor to re-create the layout of a landing page<br>
+**Today's Progress**: I haven't been feeling well the past few days, so took a health break but back at it. Today I began working through a challenge from Frontend Mentor to re-create the layout of a landing page<br>
 **Thoughts**: The tricky part for me is placement. This design has some interesting placements of elements, so this is good practice with positioning elements absolutely<br>
 **Links to work**: <br>
 https://github.com/TK1ng/Fylo-data-storage-component
