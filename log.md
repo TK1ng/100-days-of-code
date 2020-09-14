@@ -91,6 +91,12 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Work**: <br>
 <img src="/deepEqual.png"/>
 
+### Day 17: September 14, 2020
+**Today's Progress**: Over the weekend I had the chance to work on a code project. I built a simple application that draws names at random for secret gift exchange pairing.<br>
+**Thoughts**: I worked a bit with creating elements in the DOM using JavaScript. It was a challenge working out a bug that caused the browser window to freeze, but was able to do so by adjusting a for loop and using .filter() method<br>
+**Work**: <a href="http://secret-exchange.surge.sh/">Live demo</a>
+
+
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
