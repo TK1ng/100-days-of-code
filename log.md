@@ -96,6 +96,10 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**: I worked a bit with creating elements in the DOM using JavaScript. It was a challenge working out a bug that caused the browser window to freeze, but was able to do so by adjusting a for loop and using .filter() method<br>
 **Work**: <a href="http://secret-exchange.surge.sh/">Live demo</a>
 
+### Day 18: September 22, 2020
+**Today's Progress**: I coded a simple animated form<br>
+**Thoughts**: This was a quick and fun project. Still getting familiar with regex, which was used for some of the input validations<br>
+**Work**: <a href="https://codepen.io/gemking1/pen/jOqQrVj">Animated form</a>
 
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
