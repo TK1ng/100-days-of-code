@@ -101,11 +101,17 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**: This was a quick and fun project. Still getting familiar with regex, which was used for some of the input validations<br>
 **Work**: <a href="https://codepen.io/gemking1/pen/jOqQrVj">Animated form</a>
 
-
 ### Day 19: September 30, 2020
 **Today's Progress**: I wrote a function in JavaScript that similates an sms splitter.<br>
 **Thoughts**: I got stuck on this a few days ago and realized that I needed to break it down into chunks to solve. This was definitely a good excercise for learning how to tack coding problems by breaking it down into smaller chunks to tackle.<br>
-**Work**: <a href="https://github.com/TK1ng/sms-split/blob/master/main.js">Animated form</a>
+**Work**: <a href="https://github.com/TK1ng/sms-split/blob/master/main.js">SMS Splitter</a>
+
+### Day 20: October 1, 2020
+**Today's Progress**: I spent some time study regular expressions and built a simple image gallery<br>
+**Thoughts**: I was introduced to the 'object-fit' attribute in CSS. Javascript for this was pretty simple. I definitely want to spend more time with incorporating animations into a layout like this.<br>
+**Work**: <a href="https://codepen.io/gemking1/pen/oNxroom">Image Gallery</a>
+
+
 
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
