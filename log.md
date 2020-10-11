@@ -111,10 +111,10 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**: I was introduced to the 'object-fit' attribute in CSS. Javascript for this was pretty simple. I definitely want to spend more time with incorporating animations into a layout like this.<br>
 **Work**: <a href="https://codepen.io/gemking1/pen/oNxroom">Image Gallery</a>
 
-### Day 20: October 10, 2020
+### Day 21: October 10, 2020
 **Today's Progress**: Took time today to focus on getting more familiar with React<br>
 **Thoughts**: I'm working through a tutorial, learning some basic rendering with React by creating a counter. I'm coming to understand better how to set up components and work with conditional rendering as well.<br>
-**Work**: <img src="/Screen Shot 2020-10-10 at 11.41.52 PM.png"/>
+**Work**: <img src="/react.png"/>
 
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
