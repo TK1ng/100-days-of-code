@@ -116,6 +116,10 @@ https://github.com/TK1ng/Fylo-data-storage-component
 **Thoughts**: I'm working through a tutorial, learning some basic rendering with React by creating a counter. I'm coming to understand better how to set up components and work with conditional rendering as well.<br>
 **Work**: <img src="/react.png"/>
 
+### Day 22: October 29, 2020
+**Today's Progress**: I'm still here! I haven't posting here lately, but have certainly still been locked in with code. I've been doing alot of frontend work.Today I've spent sometime diving into Python to build my knowledge up in that area.<br>
+**Thoughts**: I find that once you have a grasp of one coding language, it's easier to pick up others. Understanding data structures and fundamentals is the most important piece and languages are much about the syntax<br>
+**Work**: <a href="taryntest.realgeeks.com">Frontend web customization</a>
 <!-- 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
